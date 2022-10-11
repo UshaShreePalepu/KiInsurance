@@ -1,0 +1,16 @@
+com/ki/page/welcome/WelcomePage.java
+ com.ki.page.welcome.WelcomePage
+com/ki/CucumberSpringConfiguration.java
+ com.ki.CucumberSpringConfiguration
+com/ki/config/Config.java
+ com.ki.config.Config
+com/ki/page/base/BeansConfiguration.java
+ com.ki.page.base.BeansConfiguration
+com/ki/aut/model/IWelcomePage.java
+ com.ki.aut.model.IWelcomePage
+com/ki/testRunners/Runner.java
+ com.ki.testRunners.Runner
+com/ki/page/base/Base.java
+ com.ki.page.base.Base
+com/ki/stepDefs/NewQuote.java
+ com.ki.stepDefs.NewQuote
